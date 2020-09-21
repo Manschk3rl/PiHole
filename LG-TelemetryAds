@@ -1,0 +1,11 @@
+###
+# Gerät: LG Fernseher
+# Stand: 21.09.2020
+# Quelle: https://www.helpmegeek.com/block-ads-on-smart-tv-samsung-sony-lg/
+###
+
+ngfts.lge.com
+lgad.cjpowercast.com
+edgesuite.net
+*.ad.lgsmartad.com
+*.info.lgsmartad.com
